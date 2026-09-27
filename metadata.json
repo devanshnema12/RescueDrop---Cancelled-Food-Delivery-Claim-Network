@@ -1,0 +1,6 @@
+{
+  "name": "RescueDrop - Cancelled Food Delivery Claim Network",
+  "description": "Claim freshly prepared cancelled food orders from Zomato and Swiggy at 60-80% discount or rescue food for local communities and shelters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
